@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\ATV2\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\ATV2\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\ATV2\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\ATV2\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Meu Computador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Meu Computador\\Desktop\\Senac\\UC7\\ATV2\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meu Computador\\AppData\\Roaming\\NuGet\\NuGet.Config"
